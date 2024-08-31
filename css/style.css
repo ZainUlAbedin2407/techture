@@ -1,0 +1,23 @@
+.nav-link {
+  color: rgb(0 0 0) !important;
+  font-weight: 400;
+}
+.form-control:focus {
+  border-color: transparent !important;
+  box-shadow: 0 0 0 0.25rem rgba(17, 17, 1, 0.041) !important;
+}
+.btn-outline-dark {
+  border: 1px solid #ced4da !important;
+}
+.btn-check:focus + .btn-outline-dark,
+.btn-outline-dark:focus {
+  box-shadow: none !important;
+}
+.slide-head {
+  font-size: 25px !important;
+  font-weight: 600;
+}
+.slide-para {
+  font-size: 18px !important;
+  font-weight: 450;
+}
